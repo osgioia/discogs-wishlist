@@ -6,8 +6,19 @@ class AlbumItem extends React.Component{
         return(
             <Columns isCentered>
                  <Column>
-                    <div>{this.props.basic_information.artists.name} - {this.props.basic_information.title}</div>
+                    <div>{this.props.artist}</div>
                  </Column>
+                 <Column>
+                    <div>{this.props.title}</div>
+                 </Column>
+                 <Column>
+                
+                    <div>{this.props.year}</div>
+                 </Column>
+                 <Column>
+                    <div>{this.props.format}</div>
+                 </Column>
+
             </Columns>
         )
     }

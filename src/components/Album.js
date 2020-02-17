@@ -8,12 +8,15 @@ class Album extends React.Component{
             <div>
                 {
                     this.props.discos.map(item =>
-                       /*
-                        <AlbumItem name = {item.name}
-                                   title = {item.title} />
-                        */
-                       console.log(item)
-                        )
+                      
+                       // console.log(item.basic_information)
+                       <AlbumItem 
+                            artist = {item.basic_information.artists.map(artist => artist.name)}
+                            title = {item.basic_information.title}
+                            year = {item.basic_information.year}
+                            format = {item.basic_information.formats.map(format => format.name)}
+                       />
+                    )
                 }
             </div>
         )
