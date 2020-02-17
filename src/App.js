@@ -1,6 +1,7 @@
 import React from 'react';
-import './App.css';
-
+import SearchBox from './components/SearchBox'
+import Album from './components/Album'
+import { Container } from 'bloomer'
 
 class App extends React.Component{
   constructor(props){
@@ -24,16 +25,24 @@ class App extends React.Component{
         }
 
         response.json().then(data=>{
-          this.setState({discos: data.results})
+         this.setState({discos: data.wants}) 
         })
+        
+       
       })
     }
 
+    setQuery(value){
+      this.setState({query: value})
+    }
 
     render(){
       return (
         <div className="App">
-         
+            <Container isFluid style={{marginTop: 10}}>
+              <SearchBox setInputValue={(term) => this.setQuery(term)} onSearchButtonClick={()=> this.getList()} />
+              <Album discos={this.state.discos}/>
+            </Container>
         </div>
       );
     }

@@ -1,0 +1,2823 @@
+{
+  "wants": [
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/371355",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "4AD",
+            "entity_type": "1",
+            "catno": "CAD 803",
+            "resource_url": "https://api.discogs.com/labels/634",
+            "id": 634,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1988,
+        "master_url": "https://api.discogs.com/masters/16731",
+        "artists": [
+          {
+            "join": "",
+            "name": "Pixies",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/231577",
+            "id": 231577
+          }
+        ],
+        "id": 371355,
+        "thumb": "",
+        "title": "Surfer Rosa",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "text": "Rough Cover",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/371355",
+        "master_id": 16731
+      },
+      "id": 371355,
+      "date_added": "2020-02-16T12:41:15-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/5757840",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "A&M Records",
+            "entity_type": "1",
+            "catno": "0602537789818",
+            "resource_url": "https://api.discogs.com/labels/904",
+            "id": 904,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Universal Music Group International",
+            "entity_type": "1",
+            "catno": "0602537789818",
+            "resource_url": "https://api.discogs.com/labels/138199",
+            "id": 138199,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2014,
+        "master_url": "https://api.discogs.com/masters/11547",
+        "artists": [
+          {
+            "join": "",
+            "name": "Soundgarden",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/105731",
+            "id": 105731
+          }
+        ],
+        "id": 5757840,
+        "thumb": "",
+        "title": "Superunknown",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered"
+            ],
+            "text": "180 Gram",
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/5757840",
+        "master_id": 11547
+      },
+      "id": 5757840,
+      "date_added": "2020-02-16T12:31:43-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/5182614",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "American Recordings",
+            "entity_type": "1",
+            "catno": "B0018853-01",
+            "resource_url": "https://api.discogs.com/labels/2569",
+            "id": 2569,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2013,
+        "master_url": "https://api.discogs.com/masters/7728",
+        "artists": [
+          {
+            "join": "",
+            "name": "Slayer",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/18845",
+            "id": 18845
+          }
+        ],
+        "id": 5182614,
+        "thumb": "",
+        "title": "Reign In Blood",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered"
+            ],
+            "text": "180 Gram",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/5182614",
+        "master_id": 7728
+      },
+      "id": 5182614,
+      "date_added": "2020-02-16T12:48:21-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/370466",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "American Recordings",
+            "entity_type": "1",
+            "catno": "501534 2",
+            "resource_url": "https://api.discogs.com/labels/2569",
+            "id": 2569,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "American Recordings",
+            "entity_type": "1",
+            "catno": "5015342000",
+            "resource_url": "https://api.discogs.com/labels/2569",
+            "id": 2569,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Columbia",
+            "entity_type": "1",
+            "catno": "COL 501534 2",
+            "resource_url": "https://api.discogs.com/labels/1866",
+            "id": 1866,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2001,
+        "master_url": "https://api.discogs.com/masters/35626",
+        "artists": [
+          {
+            "join": "",
+            "name": "System Of A Down",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/85889",
+            "id": 85889
+          }
+        ],
+        "id": 370466,
+        "thumb": "",
+        "title": "Toxicity",
+        "formats": [
+          {
+            "descriptions": [
+              "Album"
+            ],
+            "name": "CD",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/370466",
+        "master_id": 35626
+      },
+      "id": 370466,
+      "date_added": "2020-02-16T12:27:24-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/4555511",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Atlantic",
+            "entity_type": "1",
+            "catno": "50-14.311",
+            "resource_url": "https://api.discogs.com/labels/681",
+            "id": 681,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1977,
+        "master_url": "https://api.discogs.com/masters/406634",
+        "artists": [
+          {
+            "join": "",
+            "name": "King Crimson",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/70828",
+            "id": 70828
+          }
+        ],
+        "id": 4555511,
+        "thumb": "",
+        "title": "In The Court Of The Crimson King ",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "text": "Gatefold",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/4555511",
+        "master_id": 406634
+      },
+      "id": 4555511,
+      "date_added": "2020-02-14T09:53:58-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/6265576",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Atlantic",
+            "entity_type": "1",
+            "catno": "R1-535340",
+            "resource_url": "https://api.discogs.com/labels/681",
+            "id": 681,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2014,
+        "master_url": "https://api.discogs.com/masters/4300",
+        "artists": [
+          {
+            "join": "",
+            "name": "Led Zeppelin",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/34278",
+            "id": 34278
+          }
+        ],
+        "id": 6265576,
+        "thumb": "",
+        "title": "Untitled",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered"
+            ],
+            "text": "180 Gram",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/6265576",
+        "master_id": 4300
+      },
+      "id": 6265576,
+      "date_added": "2020-02-16T12:21:13-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/431005",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Atlantic",
+            "entity_type": "1",
+            "catno": "K50012",
+            "resource_url": "https://api.discogs.com/labels/681",
+            "id": 681,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Atlantic",
+            "entity_type": "1",
+            "catno": "K 50012",
+            "resource_url": "https://api.discogs.com/labels/681",
+            "id": 681,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1972,
+        "master_url": "https://api.discogs.com/masters/35006",
+        "artists": [
+          {
+            "join": "",
+            "name": "Yes",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/50263",
+            "id": 50263
+          }
+        ],
+        "id": 431005,
+        "thumb": "",
+        "title": "Close To The Edge",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ],
+            "text": "Gatefold, Textured Sleeve",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/431005",
+        "master_id": 35006
+      },
+      "id": 431005,
+      "date_added": "2020-02-16T12:46:40-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/6127871",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Big Brother",
+            "entity_type": "1",
+            "catno": "RKIDLP73",
+            "resource_url": "https://api.discogs.com/labels/34032",
+            "id": 34032,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2014,
+        "master_url": "https://api.discogs.com/masters/52220",
+        "artists": [
+          {
+            "join": "",
+            "name": "Oasis (2)",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/140140",
+            "id": 140140
+          }
+        ],
+        "id": 6127871,
+        "thumb": "",
+        "title": "(What's The Story) Morning Glory?",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/6127871",
+        "master_id": 52220
+      },
+      "id": 6127871,
+      "date_added": "2020-02-16T12:20:23-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/6006258",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Black Mammoth Records",
+            "entity_type": "1",
+            "catno": "825646278541",
+            "resource_url": "https://api.discogs.com/labels/630309",
+            "id": 630309,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Warner Bros. Records",
+            "entity_type": "1",
+            "catno": "825646278541",
+            "resource_url": "https://api.discogs.com/labels/1000",
+            "id": 1000,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2014,
+        "master_url": "https://api.discogs.com/masters/723797",
+        "artists": [
+          {
+            "join": "",
+            "name": "Royal Blood (6)",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/3605179",
+            "id": 3605179
+          }
+        ],
+        "id": 6006258,
+        "thumb": "",
+        "title": "Royal Blood",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/6006258",
+        "master_id": 723797
+      },
+      "id": 6006258,
+      "date_added": "2020-02-16T12:26:28-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/6093679",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Blackened Recordings",
+            "entity_type": "1",
+            "catno": "BLCKND007-1",
+            "resource_url": "https://api.discogs.com/labels/484716",
+            "id": 484716,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2014,
+        "master_url": "https://api.discogs.com/masters/6571",
+        "artists": [
+          {
+            "join": "",
+            "name": "Metallica",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/18839",
+            "id": 18839
+          }
+        ],
+        "id": 6093679,
+        "thumb": "",
+        "title": "...And Justice For All",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Repress"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/6093679",
+        "master_id": 6571
+      },
+      "id": 6093679,
+      "date_added": "2020-02-16T12:52:25-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/6007719",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Blackened Recordings",
+            "entity_type": "1",
+            "catno": "BLCKND008-1",
+            "resource_url": "https://api.discogs.com/labels/484716",
+            "id": 484716,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2014,
+        "master_url": "https://api.discogs.com/masters/6651",
+        "artists": [
+          {
+            "join": "",
+            "name": "Metallica",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/18839",
+            "id": 18839
+          }
+        ],
+        "id": 6007719,
+        "thumb": "",
+        "title": "Metallica",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Repress"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/6007719",
+        "master_id": 6651
+      },
+      "id": 6007719,
+      "date_added": "2020-02-16T12:25:07-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/1498484",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "entity_type": "1",
+            "catno": "ST 2576",
+            "resource_url": "https://api.discogs.com/labels/654",
+            "id": 654,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Capitol Records",
+            "entity_type": "1",
+            "catno": "ST-2576",
+            "resource_url": "https://api.discogs.com/labels/654",
+            "id": 654,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1966,
+        "master_url": "https://api.discogs.com/masters/45284",
+        "artists": [
+          {
+            "join": "",
+            "name": "The Beatles",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/82730",
+            "id": 82730
+          }
+        ],
+        "id": 1498484,
+        "thumb": "",
+        "title": "Revolver",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ],
+            "text": "Los Angeles Pressing",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/1498484",
+        "master_id": 45284
+      },
+      "id": 1498484,
+      "date_added": "2020-02-16T12:28:56-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/1879543",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "entity_type": "1",
+            "catno": "EST 2132",
+            "resource_url": "https://api.discogs.com/labels/654",
+            "id": 654,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Capitol Records",
+            "entity_type": "1",
+            "catno": "79 1935 1",
+            "resource_url": "https://api.discogs.com/labels/654",
+            "id": 654,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Combat",
+            "entity_type": "1",
+            "catno": "EST 2132",
+            "resource_url": "https://api.discogs.com/labels/33100",
+            "id": 33100,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Combat",
+            "entity_type": "1",
+            "catno": "79 1935 1",
+            "resource_url": "https://api.discogs.com/labels/33100",
+            "id": 33100,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2008,
+        "master_url": "https://api.discogs.com/masters/32937",
+        "artists": [
+          {
+            "join": "",
+            "name": "Megadeth",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/11770",
+            "id": 11770
+          }
+        ],
+        "id": 1879543,
+        "thumb": "",
+        "title": "Rust In Peace",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Limited Edition",
+              "Reissue",
+              "Remastered"
+            ],
+            "text": "180 Gram",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/1879543",
+        "master_id": 32937
+      },
+      "id": 1879543,
+      "date_added": "2020-02-16T12:32:26-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/1856276",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "entity_type": "1",
+            "catno": "509996 94232 15",
+            "resource_url": "https://api.discogs.com/labels/654",
+            "id": 654,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Grand Royal",
+            "entity_type": "1",
+            "catno": "509996 94232 15",
+            "resource_url": "https://api.discogs.com/labels/2236",
+            "id": 2236,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2009,
+        "master_url": "https://api.discogs.com/masters/20173",
+        "artists": [
+          {
+            "join": "",
+            "name": "Beastie Boys",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/10783",
+            "id": 10783
+          }
+        ],
+        "id": 1856276,
+        "thumb": "",
+        "title": "Ill Communication",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Remastered",
+              "Reissue"
+            ],
+            "text": "180 gram, Gatefold",
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/1856276",
+        "master_id": 20173
+      },
+      "id": 1856276,
+      "date_added": "2020-02-16T12:26:56-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/8258426",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Caroline International",
+            "entity_type": "1",
+            "catno": "CAROLO11LP",
+            "resource_url": "https://api.discogs.com/labels/674471",
+            "id": 674471,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Rekords Rekords",
+            "entity_type": "1",
+            "catno": "CAROLO11LP",
+            "resource_url": "https://api.discogs.com/labels/73907",
+            "id": 73907,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2016,
+        "master_url": "https://api.discogs.com/masters/973103",
+        "artists": [
+          {
+            "join": "",
+            "name": "Iggy Pop",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/11073",
+            "id": 11073
+          }
+        ],
+        "id": 8258426,
+        "thumb": "",
+        "title": "Post Pop Depression",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/8258426",
+        "master_id": 973103
+      },
+      "id": 8258426,
+      "date_added": "2020-02-16T12:47:33-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/696588",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Casablanca",
+            "entity_type": "1",
+            "catno": "CB. 71049",
+            "resource_url": "https://api.discogs.com/labels/26938",
+            "id": 26938,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1979,
+        "master_url": "https://api.discogs.com/masters/41703",
+        "artists": [
+          {
+            "join": "",
+            "name": "Kiss",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/153073",
+            "id": 153073
+          }
+        ],
+        "id": 696588,
+        "thumb": "",
+        "title": "Dynasty",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/696588",
+        "master_id": 41703
+      },
+      "id": 696588,
+      "date_added": "2020-02-16T12:33:17-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/100245",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "CBS",
+            "entity_type": "1",
+            "catno": "FSLN 1",
+            "resource_url": "https://api.discogs.com/labels/3072",
+            "id": 3072,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1980,
+        "master_url": "https://api.discogs.com/masters/14996",
+        "artists": [
+          {
+            "join": "",
+            "name": "The Clash",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/29890",
+            "id": 29890
+          }
+        ],
+        "id": 100245,
+        "thumb": "",
+        "title": "Sandinista!",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "3"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/100245",
+        "master_id": 14996
+      },
+      "id": 100245,
+      "date_added": "2020-02-16T12:29:03-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/378698",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "CBS",
+            "entity_type": "1",
+            "catno": "88478",
+            "resource_url": "https://api.discogs.com/labels/3072",
+            "id": 3072,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "CBS",
+            "entity_type": "1",
+            "catno": "CLASH 3",
+            "resource_url": "https://api.discogs.com/labels/3072",
+            "id": 3072,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "CBS",
+            "entity_type": "1",
+            "catno": "CBS 88478",
+            "resource_url": "https://api.discogs.com/labels/3072",
+            "id": 3072,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "CBS",
+            "entity_type": "1",
+            "catno": "S CBS Clash 3",
+            "resource_url": "https://api.discogs.com/labels/3072",
+            "id": 3072,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1979,
+        "master_url": "https://api.discogs.com/masters/19382",
+        "artists": [
+          {
+            "join": "",
+            "name": "The Clash",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/29890",
+            "id": 29890
+          }
+        ],
+        "id": 378698,
+        "thumb": "",
+        "title": "London Calling",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/378698",
+        "master_id": 19382
+      },
+      "id": 378698,
+      "date_added": "2020-02-16T12:26:17-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/6530",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Circa",
+            "entity_type": "1",
+            "catno": "WBRLP4",
+            "resource_url": "https://api.discogs.com/labels/39413",
+            "id": 39413,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Circa",
+            "entity_type": "1",
+            "catno": "7243 8 45599 1 5",
+            "resource_url": "https://api.discogs.com/labels/39413",
+            "id": 39413,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Virgin",
+            "entity_type": "1",
+            "catno": "WBRLP4",
+            "resource_url": "https://api.discogs.com/labels/750",
+            "id": 750,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Virgin",
+            "entity_type": "1",
+            "catno": "7243 8 45599 1 5",
+            "resource_url": "https://api.discogs.com/labels/750",
+            "id": 750,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1998,
+        "master_url": "https://api.discogs.com/masters/23683",
+        "artists": [
+          {
+            "join": "",
+            "name": "Massive Attack",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/4480",
+            "id": 4480
+          }
+        ],
+        "id": 6530,
+        "thumb": "",
+        "title": "Mezzanine",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/6530",
+        "master_id": 23683
+      },
+      "id": 6530,
+      "date_added": "2018-03-21T13:33:35-07:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/2943204",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Columbia",
+            "entity_type": "1",
+            "catno": "PC 33453",
+            "resource_url": "https://api.discogs.com/labels/1866",
+            "id": 1866,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1975,
+        "master_url": "https://api.discogs.com/masters/11703",
+        "artists": [
+          {
+            "join": "",
+            "name": "Pink Floyd",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/45467",
+            "id": 45467
+          }
+        ],
+        "id": 2943204,
+        "thumb": "",
+        "title": "Wish You Were Here",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "text": "Blue shrinkwrap / title sticker",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/2943204",
+        "master_id": 11703
+      },
+      "id": 2943204,
+      "date_added": "2018-03-21T13:46:27-07:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/2055654",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Columbia",
+            "entity_type": "1",
+            "catno": "MOVLP037",
+            "resource_url": "https://api.discogs.com/labels/1866",
+            "id": 1866,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Music On Vinyl",
+            "entity_type": "1",
+            "catno": "MOVLP037",
+            "resource_url": "https://api.discogs.com/labels/169635",
+            "id": 169635,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2009,
+        "master_url": "https://api.discogs.com/masters/21666",
+        "artists": [
+          {
+            "join": "",
+            "name": "Alice In Chains",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/251846",
+            "id": 251846
+          }
+        ],
+        "id": 2055654,
+        "thumb": "",
+        "title": "Dirt",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered"
+            ],
+            "text": "180 Gram",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/2055654",
+        "master_id": 21666
+      },
+      "id": 2055654,
+      "date_added": "2020-02-16T12:22:15-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/2445087",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Columbia",
+            "entity_type": "1",
+            "catno": "MOVLP138",
+            "resource_url": "https://api.discogs.com/labels/1866",
+            "id": 1866,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Music On Vinyl",
+            "entity_type": "1",
+            "catno": "MOVLP138",
+            "resource_url": "https://api.discogs.com/labels/169635",
+            "id": 169635,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2010,
+        "master_url": "https://api.discogs.com/masters/21706",
+        "artists": [
+          {
+            "join": "",
+            "name": "Alice In Chains",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/251846",
+            "id": 251846
+          }
+        ],
+        "id": 2445087,
+        "thumb": "",
+        "title": "MTV Unplugged",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Repress"
+            ],
+            "text": "180 gram",
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/2445087",
+        "master_id": 21706
+      },
+      "id": 2445087,
+      "date_added": "2020-02-16T12:28:01-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/1813006",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "DGC",
+            "entity_type": "1",
+            "catno": "DGC-24425",
+            "resource_url": "https://api.discogs.com/labels/86487",
+            "id": 86487,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1991,
+        "master_url": "https://api.discogs.com/masters/13814",
+        "artists": [
+          {
+            "join": "",
+            "name": "Nirvana",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/125246",
+            "id": 125246
+          }
+        ],
+        "id": 1813006,
+        "thumb": "",
+        "title": "Nevermind",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/1813006",
+        "master_id": 13814
+      },
+      "id": 1813006,
+      "date_added": "2018-03-21T13:46:03-07:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/1073329",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "DGC",
+            "entity_type": "1",
+            "catno": "DGC-24607",
+            "resource_url": "https://api.discogs.com/labels/86487",
+            "id": 86487,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1993,
+        "master_url": "https://api.discogs.com/masters/13859",
+        "artists": [
+          {
+            "join": "",
+            "name": "Nirvana",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/125246",
+            "id": 125246
+          }
+        ],
+        "id": 1073329,
+        "thumb": "",
+        "title": "In Utero",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Limited Edition"
+            ],
+            "text": "Clear",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/1073329",
+        "master_id": 13859
+      },
+      "id": 1073329,
+      "date_added": "2018-03-21T13:46:01-07:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/2016236",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "DGC",
+            "entity_type": "1",
+            "catno": "B0013785-01",
+            "resource_url": "https://api.discogs.com/labels/86487",
+            "id": 86487,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Interscope Records",
+            "entity_type": "1",
+            "catno": "B0013785-01",
+            "resource_url": "https://api.discogs.com/labels/2311",
+            "id": 2311,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2009,
+        "master_url": "https://api.discogs.com/masters/199416",
+        "artists": [
+          {
+            "join": "",
+            "name": "Them Crooked Vultures",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/1547819",
+            "id": 1547819
+          }
+        ],
+        "id": 2016236,
+        "thumb": "",
+        "title": "Them Crooked Vultures",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ],
+            "text": "180 Gram",
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/2016236",
+        "master_id": 199416
+      },
+      "id": 2016236,
+      "date_added": "2020-02-16T12:26:12-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/7097051",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "DGC",
+            "entity_type": "1",
+            "catno": "424 425-1",
+            "resource_url": "https://api.discogs.com/labels/86487",
+            "id": 86487,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Sub Pop",
+            "entity_type": "1",
+            "catno": "424 425-1",
+            "resource_url": "https://api.discogs.com/labels/77343",
+            "id": 77343,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2015,
+        "master_url": "https://api.discogs.com/masters/13814",
+        "artists": [
+          {
+            "join": "",
+            "name": "Nirvana",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/125246",
+            "id": 125246
+          }
+        ],
+        "id": 7097051,
+        "thumb": "",
+        "title": "Nevermind",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue"
+            ],
+            "text": "180g",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/7097051",
+        "master_id": 13814
+      },
+      "id": 7097051,
+      "date_added": "2020-02-16T12:19:52-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/3319190",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Dischord Records",
+            "entity_type": "1",
+            "catno": "DISCHORD 30",
+            "resource_url": "https://api.discogs.com/labels/18955",
+            "id": 18955,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Dischord Records",
+            "entity_type": "1",
+            "catno": "Dischord 30",
+            "resource_url": "https://api.discogs.com/labels/18955",
+            "id": 18955,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1988,
+        "master_url": "https://api.discogs.com/masters/168639",
+        "artists": [
+          {
+            "join": "",
+            "name": "Fugazi",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/82103",
+            "id": 82103
+          }
+        ],
+        "id": 3319190,
+        "thumb": "",
+        "title": "Fugazi",
+        "formats": [
+          {
+            "descriptions": [
+              "12\"",
+              "33 ? RPM",
+              "EP"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/3319190",
+        "master_id": 168639
+      },
+      "id": 3319190,
+      "date_added": "2020-02-16T12:34:31-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/612972",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Domino",
+            "entity_type": "1",
+            "catno": "WIGLP162",
+            "resource_url": "https://api.discogs.com/labels/26465",
+            "id": 26465,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2006,
+        "master_url": "https://api.discogs.com/masters/76279",
+        "artists": [
+          {
+            "join": "",
+            "name": "Arctic Monkeys",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/391170",
+            "id": 391170
+          }
+        ],
+        "id": 612972,
+        "thumb": "",
+        "title": "Whatever People Say I Am, That's What I'm Not",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/612972",
+        "master_id": 76279
+      },
+      "id": 612972,
+      "date_added": "2020-02-16T12:23:57-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/4904158",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Domino",
+            "entity_type": "1",
+            "catno": "WIGLP317",
+            "resource_url": "https://api.discogs.com/labels/26465",
+            "id": 26465,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2013,
+        "master_url": "https://api.discogs.com/masters/593987",
+        "artists": [
+          {
+            "join": "",
+            "name": "Arctic Monkeys",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/391170",
+            "id": 391170
+          }
+        ],
+        "id": 4904158,
+        "thumb": "",
+        "title": "AM",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "text": "180 Gram, Gatefold",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/4904158",
+        "master_id": 593987
+      },
+      "id": 4904158,
+      "date_added": "2020-02-16T12:20:19-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/1371973",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Elektra",
+            "entity_type": "1",
+            "catno": "5E-564",
+            "resource_url": "https://api.discogs.com/labels/651",
+            "id": 651,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1981,
+        "master_url": "https://api.discogs.com/masters/7941",
+        "artists": [
+          {
+            "join": "",
+            "name": "Queen",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/81013",
+            "id": 81013
+          }
+        ],
+        "id": 1371973,
+        "thumb": "",
+        "title": "Greatest Hits",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Compilation"
+            ],
+            "text": "AR",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/1371973",
+        "master_id": 7941
+      },
+      "id": 1371973,
+      "date_added": "2020-02-16T12:44:41-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/4111082",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Elektra",
+            "entity_type": "1",
+            "catno": "R1 1098",
+            "resource_url": "https://api.discogs.com/labels/651",
+            "id": 651,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Rhino Vinyl",
+            "entity_type": "1",
+            "catno": "R1 1098",
+            "resource_url": "https://api.discogs.com/labels/152823",
+            "id": 152823,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2012,
+        "master_url": "https://api.discogs.com/masters/6202",
+        "artists": [
+          {
+            "join": "",
+            "name": "Television",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/254494",
+            "id": 254494
+          }
+        ],
+        "id": 4111082,
+        "thumb": "",
+        "title": "Marquee Moon",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered"
+            ],
+            "text": "RTI, 180g",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/4111082",
+        "master_id": 6202
+      },
+      "id": 4111082,
+      "date_added": "2020-02-16T12:50:15-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/612780",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "EMI",
+            "entity_type": "1",
+            "catno": "EMTC 103",
+            "resource_url": "https://api.discogs.com/labels/26126",
+            "id": 26126,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "EMI",
+            "entity_type": "1",
+            "catno": "0C 066 ° 97176",
+            "resource_url": "https://api.discogs.com/labels/26126",
+            "id": 26126,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1975,
+        "master_url": "https://api.discogs.com/masters/5863",
+        "artists": [
+          {
+            "join": "",
+            "name": "Queen",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/81013",
+            "id": 81013
+          }
+        ],
+        "id": 612780,
+        "thumb": "",
+        "title": "A Night At The Opera",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ],
+            "text": "Embossed Gatefold",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/612780",
+        "master_id": 5863
+      },
+      "id": 612780,
+      "date_added": "2020-02-16T12:20:47-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/11112928",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Epic",
+            "entity_type": "1",
+            "catno": "88985376871",
+            "resource_url": "https://api.discogs.com/labels/1005",
+            "id": 1005,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2017,
+        "master_url": "https://api.discogs.com/masters/73824",
+        "artists": [
+          {
+            "join": "",
+            "name": "Pearl Jam",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/175395",
+            "id": 175395
+          }
+        ],
+        "id": 11112928,
+        "thumb": "",
+        "title": "Ten",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/11112928",
+        "master_id": 73824
+      },
+      "id": 11112928,
+      "date_added": "2018-03-21T13:57:04-07:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/1283692",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Epic",
+            "entity_type": "1",
+            "catno": "QE 38112",
+            "resource_url": "https://api.discogs.com/labels/1005",
+            "id": 1005,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1982,
+        "master_url": "https://api.discogs.com/masters/8883",
+        "artists": [
+          {
+            "join": "",
+            "name": "Michael Jackson",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/15885",
+            "id": 15885
+          }
+        ],
+        "id": 1283692,
+        "thumb": "",
+        "title": "Thriller",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "text": "Gatefold",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/1283692",
+        "master_id": 8883
+      },
+      "id": 1283692,
+      "date_added": "2020-02-16T12:41:38-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/7132498",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Factory",
+            "entity_type": "1",
+            "catno": "FACT 10R",
+            "resource_url": "https://api.discogs.com/labels/857",
+            "id": 857,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Factory",
+            "entity_type": "1",
+            "catno": "FACT 10",
+            "resource_url": "https://api.discogs.com/labels/857",
+            "id": 857,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2015,
+        "master_url": "https://api.discogs.com/masters/4805",
+        "artists": [
+          {
+            "join": "",
+            "name": "Joy Division",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/3898",
+            "id": 3898
+          }
+        ],
+        "id": 7132498,
+        "thumb": "",
+        "title": "Unknown Pleasures",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered"
+            ],
+            "text": "180 gram, Textured Sleeve",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/7132498",
+        "master_id": 4805
+      },
+      "id": 7132498,
+      "date_added": "2020-02-16T12:26:05-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/2289504",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Fiction Records",
+            "entity_type": "1",
+            "catno": "532 456-3",
+            "resource_url": "https://api.discogs.com/labels/5810",
+            "id": 5810,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Fiction Records",
+            "entity_type": "1",
+            "catno": "060075324563 (7)",
+            "resource_url": "https://api.discogs.com/labels/5810",
+            "id": 5810,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Polydor",
+            "entity_type": "1",
+            "catno": "532 456-3",
+            "resource_url": "https://api.discogs.com/labels/1610",
+            "id": 1610,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Polydor",
+            "entity_type": "1",
+            "catno": "060075324563 (7)",
+            "resource_url": "https://api.discogs.com/labels/1610",
+            "id": 1610,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Universal Music Catalogue",
+            "entity_type": "1",
+            "catno": "532 456-3",
+            "resource_url": "https://api.discogs.com/labels/97701",
+            "id": 97701,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Universal Music Catalogue",
+            "entity_type": "1",
+            "catno": "060075324563 (7)",
+            "resource_url": "https://api.discogs.com/labels/97701",
+            "id": 97701,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2010,
+        "master_url": "https://api.discogs.com/masters/31755",
+        "artists": [
+          {
+            "join": "",
+            "name": "The Cure",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/28972",
+            "id": 28972
+          }
+        ],
+        "id": 2289504,
+        "thumb": "",
+        "title": "Disintegration",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered"
+            ],
+            "text": "180g, Gatefold Sleeve",
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/2289504",
+        "master_id": 31755
+      },
+      "id": 2289504,
+      "date_added": "2020-02-16T12:28:38-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/1748265",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Gasoline Alley Records",
+            "entity_type": "1",
+            "catno": "B0011696-01",
+            "resource_url": "https://api.discogs.com/labels/6986",
+            "id": 6986,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Skunk Records (2)",
+            "entity_type": "1",
+            "catno": "B0011696-01",
+            "resource_url": "https://api.discogs.com/labels/103923",
+            "id": 103923,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Geffen Records",
+            "entity_type": "1",
+            "catno": "B0011696-01",
+            "resource_url": "https://api.discogs.com/labels/821",
+            "id": 821,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "UMe",
+            "entity_type": "1",
+            "catno": "B0011696-01",
+            "resource_url": "https://api.discogs.com/labels/68029",
+            "id": 68029,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2008,
+        "master_url": "https://api.discogs.com/masters/158333",
+        "artists": [
+          {
+            "join": "",
+            "name": "Sublime (2)",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/98600",
+            "id": 98600
+          }
+        ],
+        "id": 1748265,
+        "thumb": "",
+        "title": "Sublime",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue"
+            ],
+            "text": "180 gram",
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/1748265",
+        "master_id": 158333
+      },
+      "id": 1748265,
+      "date_added": "2020-02-16T12:45:16-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/1901246",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Geffen Records",
+            "entity_type": "1",
+            "catno": "0720642472712",
+            "resource_url": "https://api.discogs.com/labels/821",
+            "id": 821,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2008,
+        "master_url": "https://api.discogs.com/masters/22433",
+        "artists": [
+          {
+            "join": "",
+            "name": "Nirvana",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/125246",
+            "id": 125246
+          }
+        ],
+        "id": 1901246,
+        "thumb": "",
+        "title": "MTV Unplugged In New York",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Repress"
+            ],
+            "text": "180 Gram",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/1901246",
+        "master_id": 22433
+      },
+      "id": 1901246,
+      "date_added": "2020-02-16T12:21:41-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/8494616",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Geffen Records",
+            "entity_type": "1",
+            "catno": "B0024735-01",
+            "resource_url": "https://api.discogs.com/labels/821",
+            "id": 821,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2016,
+        "master_url": "https://api.discogs.com/masters/35071",
+        "artists": [
+          {
+            "join": "",
+            "name": "Weezer",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/105730",
+            "id": 105730
+          }
+        ],
+        "id": 8494616,
+        "thumb": "",
+        "title": "Pinkerton",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Club Edition",
+              "Reissue",
+              "Remastered",
+              "Repress"
+            ],
+            "text": "Blue With Black Marbling Translucent, 140 Gram",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/8494616",
+        "master_id": 35071
+      },
+      "id": 8494616,
+      "date_added": "2020-02-16T12:28:35-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/7545132",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Geffen Records",
+            "entity_type": "1",
+            "catno": "0720642453612",
+            "resource_url": "https://api.discogs.com/labels/821",
+            "id": 821,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Geffen Records",
+            "entity_type": "1",
+            "catno": "00720642453612",
+            "resource_url": "https://api.discogs.com/labels/821",
+            "id": 821,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "DGC",
+            "entity_type": "1",
+            "catno": "0720642453612",
+            "resource_url": "https://api.discogs.com/labels/86487",
+            "id": 86487,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "DGC",
+            "entity_type": "1",
+            "catno": "00720642453612",
+            "resource_url": "https://api.discogs.com/labels/86487",
+            "id": 86487,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Sub Pop",
+            "entity_type": "1",
+            "catno": "0720642453612",
+            "resource_url": "https://api.discogs.com/labels/77343",
+            "id": 77343,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Sub Pop",
+            "entity_type": "1",
+            "catno": "00720642453612",
+            "resource_url": "https://api.discogs.com/labels/77343",
+            "id": 77343,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Universal Music Group International",
+            "entity_type": "1",
+            "catno": "0720642453612",
+            "resource_url": "https://api.discogs.com/labels/138199",
+            "id": 138199,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Universal Music Group International",
+            "entity_type": "1",
+            "catno": "00720642453612",
+            "resource_url": "https://api.discogs.com/labels/138199",
+            "id": 138199,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2015,
+        "master_url": "https://api.discogs.com/masters/13859",
+        "artists": [
+          {
+            "join": "",
+            "name": "Nirvana",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/125246",
+            "id": 125246
+          }
+        ],
+        "id": 7545132,
+        "thumb": "",
+        "title": "In Utero",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered"
+            ],
+            "text": "180 Gram",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/7545132",
+        "master_id": 13859
+      },
+      "id": 7545132,
+      "date_added": "2020-02-16T12:28:00-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/9253620",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Geffen Records",
+            "entity_type": "1",
+            "catno": "B0025152-01",
+            "resource_url": "https://api.discogs.com/labels/821",
+            "id": 821,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "UMe",
+            "entity_type": "1",
+            "catno": "B0025152-01",
+            "resource_url": "https://api.discogs.com/labels/68029",
+            "id": 68029,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2016,
+        "master_url": "https://api.discogs.com/masters/35266",
+        "artists": [
+          {
+            "join": "",
+            "name": "Weezer",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/105730",
+            "id": 105730
+          }
+        ],
+        "id": 9253620,
+        "thumb": "",
+        "title": "Weezer",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/9253620",
+        "master_id": 35266
+      },
+      "id": 9253620,
+      "date_added": "2020-02-16T12:28:12-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/22840",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Go! Beat",
+            "entity_type": "1",
+            "catno": "828 522-1",
+            "resource_url": "https://api.discogs.com/labels/864",
+            "id": 864,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1994,
+        "master_url": "https://api.discogs.com/masters/5542",
+        "artists": [
+          {
+            "join": "",
+            "name": "Portishead",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/2774",
+            "id": 2774
+          }
+        ],
+        "id": 22840,
+        "thumb": "",
+        "title": "Dummy",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/22840",
+        "master_id": 5542
+      },
+      "id": 22840,
+      "date_added": "2018-03-21T13:33:18-07:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/1526433",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Go! Beat",
+            "entity_type": "1",
+            "catno": "828 522-1",
+            "resource_url": "https://api.discogs.com/labels/864",
+            "id": 864,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Go! Beat",
+            "entity_type": "1",
+            "catno": "828 522 - 1",
+            "resource_url": "https://api.discogs.com/labels/864",
+            "id": 864,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2008,
+        "master_url": "https://api.discogs.com/masters/5542",
+        "artists": [
+          {
+            "join": "",
+            "name": "Portishead",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/2774",
+            "id": 2774
+          }
+        ],
+        "id": 1526433,
+        "thumb": "",
+        "title": "Dummy",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue"
+            ],
+            "text": "180 gram",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/1526433",
+        "master_id": 5542
+      },
+      "id": 1526433,
+      "date_added": "2020-02-16T12:22:08-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/5746111",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Goofin' Records",
+            "entity_type": "1",
+            "catno": "goo-017",
+            "resource_url": "https://api.discogs.com/labels/34182",
+            "id": 34182,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2014,
+        "master_url": "https://api.discogs.com/masters/9768",
+        "artists": [
+          {
+            "join": "",
+            "name": "Sonic Youth",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/17199",
+            "id": 17199
+          }
+        ],
+        "id": 5746111,
+        "thumb": "",
+        "title": "Daydream Nation",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/5746111",
+        "master_id": 9768
+      },
+      "id": 5746111,
+      "date_added": "2020-02-16T12:48:34-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/367511",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Harvest",
+            "entity_type": "1",
+            "catno": "SHDW 411",
+            "resource_url": "https://api.discogs.com/labels/2564",
+            "id": 2564,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1979,
+        "master_url": "https://api.discogs.com/masters/11329",
+        "artists": [
+          {
+            "join": "",
+            "name": "Pink Floyd",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/45467",
+            "id": 45467
+          }
+        ],
+        "id": 367511,
+        "thumb": "",
+        "title": "The Wall",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/367511",
+        "master_id": 11329
+      },
+      "id": 367511,
+      "date_added": "2018-03-21T13:46:25-07:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/432716",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Harvest",
+            "entity_type": "1",
+            "catno": "SMAS-832",
+            "resource_url": "https://api.discogs.com/labels/2564",
+            "id": 2564,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1971,
+        "master_url": "https://api.discogs.com/masters/20649",
+        "artists": [
+          {
+            "join": "",
+            "name": "Pink Floyd",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/45467",
+            "id": 45467
+          }
+        ],
+        "id": 432716,
+        "thumb": "",
+        "title": "Meddle",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "text": "LA Pressing, Gatefold",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/432716",
+        "master_id": 20649
+      },
+      "id": 432716,
+      "date_added": "2020-02-16T12:23:22-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/371269",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Harvest",
+            "entity_type": "1",
+            "catno": "SHVL 804",
+            "resource_url": "https://api.discogs.com/labels/2564",
+            "id": 2564,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Harvest",
+            "entity_type": "1",
+            "catno": "1E 064 o 05249",
+            "resource_url": "https://api.discogs.com/labels/2564",
+            "id": 2564,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1973,
+        "master_url": "https://api.discogs.com/masters/10362",
+        "artists": [
+          {
+            "join": "",
+            "name": "Pink Floyd",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/45467",
+            "id": 45467
+          }
+        ],
+        "id": 371269,
+        "thumb": "",
+        "title": "The Dark Side Of The Moon",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Repress"
+            ],
+            "text": "5th, Gatefold",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/371269",
+        "master_id": 10362
+      },
+      "id": 371269,
+      "date_added": "2018-03-21T13:46:21-07:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/391322",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Harvest",
+            "entity_type": "1",
+            "catno": "SHVL 815",
+            "resource_url": "https://api.discogs.com/labels/2564",
+            "id": 2564,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Harvest",
+            "entity_type": "1",
+            "catno": "0C 064-98 434",
+            "resource_url": "https://api.discogs.com/labels/2564",
+            "id": 2564,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 1977,
+        "master_url": "https://api.discogs.com/masters/10370",
+        "artists": [
+          {
+            "join": "",
+            "name": "Pink Floyd",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/45467",
+            "id": 45467
+          }
+        ],
+        "id": 391322,
+        "thumb": "",
+        "title": "Animals",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album"
+            ],
+            "text": "Gatefold",
+            "name": "Vinyl",
+            "qty": "1"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/391322",
+        "master_id": 10370
+      },
+      "id": 391322,
+      "date_added": "2020-02-16T12:24:21-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/14374762",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Interscope Records",
+            "entity_type": "1",
+            "catno": "B0031009-01",
+            "resource_url": "https://api.discogs.com/labels/2311",
+            "id": 2311,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "UMe",
+            "entity_type": "1",
+            "catno": "B0031009-01",
+            "resource_url": "https://api.discogs.com/labels/68029",
+            "id": 68029,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Universal Music Special Markets",
+            "entity_type": "1",
+            "catno": "B0031009-01",
+            "resource_url": "https://api.discogs.com/labels/56128",
+            "id": 56128,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2019,
+        "master_url": "https://api.discogs.com/masters/3239",
+        "artists": [
+          {
+            "join": "",
+            "name": "Queens Of The Stone Age",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/56168",
+            "id": 56168
+          }
+        ],
+        "id": 14374762,
+        "thumb": "",
+        "title": "Songs For The Deaf",
+        "formats": [
+          {
+            "descriptions": [
+              "LP",
+              "Album",
+              "Club Edition",
+              "Deluxe Edition",
+              "Reissue"
+            ],
+            "text": "Red/Black Marble",
+            "name": "Vinyl",
+            "qty": "2"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/14374762",
+        "master_id": 3239
+      },
+      "id": 14374762,
+      "date_added": "2020-02-16T12:33:08-08:00"
+    },
+    {
+      "rating": 0,
+      "resource_url": "https://api.discogs.com/users/os.gioia/wants/1152332",
+      "basic_information": {
+        "labels": [
+          {
+            "name": "Ipecac Recordings",
+            "entity_type": "1",
+            "catno": "IPC-091",
+            "resource_url": "https://api.discogs.com/labels/48048",
+            "id": 48048,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Interscope Records",
+            "entity_type": "1",
+            "catno": "IPC-091",
+            "resource_url": "https://api.discogs.com/labels/2311",
+            "id": 2311,
+            "entity_type_name": "Label"
+          },
+          {
+            "name": "Rekords Rekords",
+            "entity_type": "1",
+            "catno": "IPC-091",
+            "resource_url": "https://api.discogs.com/labels/73907",
+            "id": 73907,
+            "entity_type_name": "Label"
+          }
+        ],
+        "year": 2007,
+        "master_url": "https://api.discogs.com/masters/3120",
+        "artists": [
+          {
+            "join": "",
+            "name": "Queens Of The Stone Age",
+            "anv": "",
+            "tracks": "",
+            "role": "",
+            "resource_url": "https://api.discogs.com/artists/56168",
+            "id": 56168
+          }
+        ],
+        "id": 1152332,
+        "thumb": "",
+        "title": "Era Vulgaris",
+        "formats": [
+          {
+            "descriptions": [
+              "10\"",
+              "33 ? RPM",
+              "Album"
+            ],
+            "name": "Vinyl",
+            "qty": "3"
+          }
+        ],
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/1152332",
+        "master_id": 3120
+      },
+      "id": 1152332,
+      "date_added": "2020-02-16T12:27:17-08:00"
+    }
+  ]
+}
