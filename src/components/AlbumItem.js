@@ -1,8 +1,13 @@
 import React from 'react'
-import {Columns, Column} from 'bloomer'
+import {Columns, Column, Button} from 'bloomer'
 
 class AlbumItem extends React.Component{
-    render(){
+
+    MeliLink = (artist, title) => {
+        return "https://listado.mercadolibre.com.ar/" + artist + "-" + title 
+    }
+
+     render(){
         return(
             <Columns isCentered>
                  <Column>
@@ -12,13 +17,15 @@ class AlbumItem extends React.Component{
                     <div>{this.props.title}</div>
                  </Column>
                  <Column>
-                
-                    <div>{this.props.year}</div>
+                        {this.props.year}
                  </Column>
                  <Column>
-                    <div>{this.props.format}</div>
+                    {this.props.format}
+                 </Column> 
+                 <Column isSize="1/2">
+                    <Button isColor='warning' href={this.MeliLink(this.props.artist,this.props.title)}>Mercado Libre</Button>
                  </Column>
-
+                
             </Columns>
         )
     }

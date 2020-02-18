@@ -15,6 +15,7 @@ class Album extends React.Component{
                             title = {item.basic_information.title}
                             year = {item.basic_information.year}
                             format = {item.basic_information.formats.map(format => format.name)}
+                            
                        />
                     )
                 }
