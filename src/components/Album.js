@@ -1,6 +1,7 @@
 import React from 'react'
 import AlbumItem from './AlbumItem'
 
+
 class Album extends React.Component{
     render()
     {
@@ -15,7 +16,8 @@ class Album extends React.Component{
                             title = {item.basic_information.title}
                             year = {item.basic_information.year}
                             format = {item.basic_information.formats.map(format => format.name)}
-                            
+                            link = {item.basic_information.resource_url}
+
                        />
                     )
                 }

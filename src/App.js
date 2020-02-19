@@ -2,10 +2,18 @@ import React from 'react';
 import SearchBox from './components/SearchBox'
 import Album from './components/Album'
 import { Container } from 'bloomer'
+import dotenv from 'dotenv'
+
+
+
+
 
 class App extends React.Component{
   constructor(props){
     super(props)
+
+    dotenv.config()
+
 
     this.state = {
       discos: [],

@@ -21,7 +21,7 @@ class SearchBox extends Component{
         return(
             <Field isGrouped>
                 <Control>
-                    <Input type="text" value={this.state.query} onChange={event=> this.handleChange(event.target.value)}/>
+                    <Input type="text" placeholder="DiscoGS User" value={this.state.query} onChange={event=> this.handleChange(event.target.value)}/>
                 </Control>
                 <Control>
                     <Button isColor='success' isOutlined onClick={event=> this.handleClick(event.target.value)}>Buscar</Button>
