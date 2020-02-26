@@ -5,9 +5,6 @@ import { Container } from 'bloomer'
 import dotenv from 'dotenv'
 
 
-
-
-
 class App extends React.Component{
   constructor(props){
     super(props)
@@ -21,6 +18,8 @@ class App extends React.Component{
     }
 
     }  
+
+   
 
 
     //Fetch a DiscoGS
@@ -49,6 +48,7 @@ class App extends React.Component{
         <div className="App">
             <Container isFluid style={{marginTop: 10}}>
               <SearchBox setInputValue={(term) => this.setQuery(term)} onSearchButtonClick={()=> this.getList()} />
+             
               <Album discos={this.state.discos}/>
             </Container>
         </div>

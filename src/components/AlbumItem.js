@@ -2,26 +2,13 @@ import React from 'react'
 import {Columns, Column, Button} from 'bloomer'
 import request from 'request'
 
+var albumimg, albumlink
 
 class AlbumItem extends React.Component{
-    
-    SpotifyInfo = (artist, title) => {
-        var authOptions = {
-            url: 'https://accounts.spotify.com/api/token',
-            headers: {
-              'Authorization': 'Basic ' + (new Buffer(process.env.REACT_APP_CLIENT_ID + ':' + process.env.REACT_APP_CLIENT_SECRET).toString('base64'))
-            },
-            form: {
-              grant_type: 'client_credentials'
-            },
-            json: true
-          };
-          
-          request.post(authOptions, function(error, response, body) {
-            if (!error && response.statusCode === 200) {
-          
-              // use the access token to access the Spotify Web API
-              var token = body.access_token;
+
+
+    SpotifyInfo = (token, artist, title) => {
+        
               var options = {
                 url: 'https://api.spotify.com/v1/search?q='+ artist + " " + title +'&type=album&market=US&limit=1&offset=1',
                 headers: {
@@ -30,25 +17,33 @@ class AlbumItem extends React.Component{
                 json: true
               };
               request.get(options, function(error, response, body) {
-                console.log(body);
+                 if (body.albums.items.length > 0) {
+               
+                albumlink = body.albums.items[0].images[2].url
+                albumimg = body.albums.items[0].external_urls.spotify
+                
+
+               }
               });
-              
             }
-          });
-        }
+         
 
     MeliLink = (artist, title) => {
         return "https://listado.mercadolibre.com.ar/" + artist + "-" + title 
     }
 
     DiscoGSLink = (urllink) => {
-        return urllink.replace("api","www")
+         urllink = urllink.replace("releases","release")
+         return  urllink.replace("api","www")
     }
 
      render(){
-        this.SpotifyInfo(this.props.artist,this.props.title)
+        this.SpotifyInfo(this.props.token,this.props.artist,this.props.title)
         return(
             <Columns isCentered>
+                  <Column>
+                     <img src={this.albumimg}/>
+                 </Column>
                  <Column>
                     <div>{this.props.artist}</div>
                  </Column>
@@ -68,7 +63,7 @@ class AlbumItem extends React.Component{
                     <Button isColor='warning' href={this.MeliLink(this.props.artist,this.props.title)}>Mercado Libre</Button>
                  </Column>
                  <Column >
-                    <Button isColor='success' href="">Spotify</Button>
+                    <Button isColor='success' href={this.albumlink}>Spotify</Button>
                  </Column>
 
             </Columns>
