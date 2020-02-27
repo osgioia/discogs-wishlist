@@ -1,32 +1,50 @@
 import React from 'react'
 import {Columns, Column, Button} from 'bloomer'
-import request from 'request'
 
-var albumimg, albumlink
 
 class AlbumItem extends React.Component{
+   constructor(props) {
+            super(props)
+            this.state = {
+               albumlink: '',
+               albumimg: ''
+             }
+   }
 
 
-    SpotifyInfo = (token, artist, title) => {
-        
-              var options = {
-                url: 'https://api.spotify.com/v1/search?q='+ artist + " " + title +'&type=album&market=US&limit=1&offset=1',
-                headers: {
-                  'Authorization': 'Bearer ' + token
-                },
-                json: true
-              };
-              request.get(options, function(error, response, body) {
-                 if (body.albums.items.length > 0) {
+   componentDidMount()
+   {
+      
+      const url = 'https://api.spotify.com/v1/search?q='+ this.props.artist + " " + this.props.title +'&type=album&limit=1&offset=1';
+        fetch(url, {
+            method: 'GET',
+            headers: new Headers({
+                'Authorization': 'Bearer ' + this.props.token
+            })
+        })
+        .then(res => res.json())
+        .then((res) => {
+            const { error } = res;
+            if (error && error.message === 'The access token expired') {
+                console.log('The access token expired');
+            } else {
                
-                albumlink = body.albums.items[0].images[2].url
-                albumimg = body.albums.items[0].external_urls.spotify
-                
+                  
 
-               }
-              });
-            }
-         
+                 this.setState({albumlink : res.albums.items[0].external_urls.spotify,
+                                 albumimg :  res.albums.items[0].images[2].url}, console.log(this.state.albumlink + " " + this.state.albumimg))
+                 }
+               
+            })
+        .catch(err => console.log('err', err));
+      
+      
+
+    }
+  
+   
+
+           
 
     MeliLink = (artist, title) => {
         return "https://listado.mercadolibre.com.ar/" + artist + "-" + title 
@@ -38,11 +56,11 @@ class AlbumItem extends React.Component{
     }
 
      render(){
-        this.SpotifyInfo(this.props.token,this.props.artist,this.props.title)
+        
         return(
             <Columns isCentered>
                   <Column>
-                     <img src={this.albumimg}/>
+                     <img src={this.state.albumimg} alt={this.state.albumimg}/>
                  </Column>
                  <Column>
                     <div>{this.props.artist}</div>
@@ -63,7 +81,7 @@ class AlbumItem extends React.Component{
                     <Button isColor='warning' href={this.MeliLink(this.props.artist,this.props.title)}>Mercado Libre</Button>
                  </Column>
                  <Column >
-                    <Button isColor='success' href={this.albumlink}>Spotify</Button>
+                    <Button isColor='success' href={this.state.albumlink}>Spotify</Button>
                  </Column>
 
             </Columns>
